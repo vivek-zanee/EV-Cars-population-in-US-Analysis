@@ -7,7 +7,7 @@ The dataset can be found [here.](https://catalog.data.gov/dataset/electric-vehic
 
 This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).
 
-[Sample Image](Electric_Vehicle_Population_Data_PowerBi.png)
 
+<p align="center">
 <img src="Electric_Vehicle_Population_Data_PowerBi.png" alt="alt text" title="image Title" width="150"/>
-
+</p>
