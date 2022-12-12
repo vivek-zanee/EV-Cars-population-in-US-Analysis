@@ -9,3 +9,5 @@ This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Elect
 
 [Sample Image](Electric_Vehicle_Population_Data_PowerBi.png)
 
+<img src="Electric_Vehicle_Population_Data_PowerBi.png" alt="alt text" title="image Title" width="150"/>
+
